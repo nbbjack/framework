@@ -65,7 +65,6 @@ public class GlobalExceptionHandler {
     @ExceptionHandler(value = ServiceException.class)
     public ResponseResult commonExceptionHandler(ServiceException ex) {
         log.error("业务异常ServiceException："+ex.getMessage());
-        ex.printStackTrace();
         return ResponseResult.info(ex.getMessage());
     }
 
