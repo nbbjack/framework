@@ -32,7 +32,7 @@
 ##### 拓展：对jitpack.io介绍
 
 - 输入网址[https://jitpack.io](https://jitpack.io/)
-- 搜索框中输入ti-amero-ng/framework，可以在当前页面中查看到framework框架所有历史版本以及导入方式
+- 搜索框中输入nbbjack/framework，可以在当前页面中查看到framework框架所有历史版本以及导入方式
 
 ### 二、功能使用说明
 
